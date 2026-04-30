@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+websockets
+pipecat-ai
+openai
+elevenlabs
+torch
+pipecat-ai[deepgram]
+asyncpg
+psycopg2-binary
+sqlalchemy
+pydantic
+firebase-admin
+python-jose[cryptography]
